@@ -1,0 +1,51 @@
+body {
+    background-color: #f5f5f5;
+
+
+}
+.letra{
+font-size: 25px;
+color: aqua;
+font-weight: 100px;
+background-color: #aa00ff;
+
+}
+
+p{
+text-align:justify;
+
+
+}
+
+h2{
+    color: chocolate;
+}
+
+
+
+.titulo{
+color: darkslategrey;
+text-align: letf;
+    justify-content:letf;
+    padding: 20;
+
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+h1, h2, h3 {
+    color:black;
+}
+
+.navbar {
+    background-color: #aa00ff;
+}
+
+.navbar a {
+    color: #fff;
+}
